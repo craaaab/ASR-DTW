@@ -11,5 +11,5 @@ dtw.m----------------DTW算法
 mfcc.m---------------提取MFCC系数与一阶差分参数
 
 环境说明：
-MATLAB 2019b Academic
+MATLAB R2019a Academic
 需要配置voicebox工具箱与MATLAB Arduino Support Package
